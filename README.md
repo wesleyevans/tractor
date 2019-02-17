@@ -1,1 +1,1 @@
-<img src="Desktop/Tractor.png" alt="Tractor">
+<img src="Images/Tractor.png" alt="Tractor">
